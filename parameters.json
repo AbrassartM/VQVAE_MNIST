@@ -1,0 +1,19 @@
+{
+
+"vae_type": "VQVAE",
+
+"data_type": "MNIST",
+
+"train_size": 60000,
+
+"batch_size": 32,
+
+"test_size": 10000,
+
+"epochs": 10,
+
+"latent_dim": 2,
+
+"num_examples_to_generate": 16
+
+}
